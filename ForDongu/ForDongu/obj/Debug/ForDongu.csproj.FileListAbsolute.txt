@@ -1,0 +1,6 @@
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\bin\Debug\ForDongu.exe.config
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\bin\Debug\ForDongu.exe
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\bin\Debug\ForDongu.pdb
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\obj\Debug\ForDongu.csprojAssemblyReference.cache
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\obj\Debug\ForDongu.exe
+C:\Users\Zaxos\source\repos\ForDongu\ForDongu\obj\Debug\ForDongu.pdb
